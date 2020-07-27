@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Unsupervised Domain Adaptation For Plant Organ Counting (UDA4POC)
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://github.com/tedywond/UDA4POC
+  github: https://github.com/tedywond/UDA4POC
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
