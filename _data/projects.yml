@@ -3,6 +3,6 @@
   link: https://github.com/tedywond/UDA4POC
   github: https://github.com/tedywond/UDA4POC
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    
   description: | # this will include new lines to allow paragraphs
     This project is presented on ECCV 2020 Workshop on COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP 2020). We used a Domain-Adversarial Neural Network (DANN) for Unsupervised domain adaptation task for counting plant organs such as leaves. Model is fully implemented using the Pytorch framework.
