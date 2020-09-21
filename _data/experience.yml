@@ -13,3 +13,11 @@
   dates: September 2016 - August 2018
   description: | # this will include new lines to allow paragraphs
     I served as an assistant lecturer in the Information Technology and Scientific Computing (ITSC). I designed syllabuses, gave courses, designed labs and conduct lectures to different courses including Fundamentals of Computer Science, Algorithm and Data structures and Computer Graphics
+
+- layout: left
+  company: iCog
+  link: http://www.aait.edu.et/
+  job_title: Assistant Lecturer
+  dates: September 2016 - June 2016
+  description: | # this will include new lines to allow paragraphs
+    iCog Labs is Artificial intelligence (AI) research and development company based in Addis Ababa, Ethiopia. The lab's core specialty is artificial intelligence, including machine learning based data analysis, computational linguistics, computer vision, mobile robots and cognitive robotics, cognitive architectures and artificial general intelligence.
