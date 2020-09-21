@@ -16,8 +16,8 @@
 
 - layout: left
   company: iCog
-  link: http://www.aait.edu.et/
-  job_title: Assistant Lecturer
+  link: https://icog-labs.com/
+  job_title: Programmer
   dates: September 2016 - June 2016
   description: | # this will include new lines to allow paragraphs
-    iCog Labs is Artificial intelligence (AI) research and development company based in Addis Ababa, Ethiopia. The lab's core specialty is artificial intelligence, including machine learning based data analysis, computational linguistics, computer vision, mobile robots and cognitive robotics, cognitive architectures and artificial general intelligence.
+    iCog Labs is Artificial intelligence (AI) research and development company based in Addis Ababa, Ethiopia. I worked on an intelligent advertisement generator system by leveraging machine learning-based text analysis techniques. In the project, I worked on data scraping from social networks (tweeter, Facebook, and Reddit), cleaning the collected data, and finally worked on an ML-based word ranking for advertisement generation. 
