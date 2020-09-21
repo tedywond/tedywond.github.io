@@ -5,4 +5,4 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    This project is presented on ECCV 2020 Workshop on COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP 2020). We used a Domain-Adversarial Neural Network (DANN) for Unsupervised domain adaptation task for counting plant organs such as leaves. Model is fully implemented using the Pytorch framework.
+    This project is presented on ECCV 2020 Workshop on COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP 2020). Our paper was awarded the best paper award from the workshop. We used a Domain-Adversarial Neural Network (DANN) for Unsupervised domain adaptation task for counting plant organs such as leaves and spikelets. Model is fully implemented using the Pytorch framework.
