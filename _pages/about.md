@@ -26,11 +26,11 @@ latest_posts:
 ---
 
 I am a PhD student in Computer Science at the University of Chicago, working at the [Robot Intelligence through Perception Laboratory (RIPL)](https://ttic.edu/ripl/) at the Toyota Technological Institute at Chicago (TTIC), where I am advised by [Dr. Matthew Walter](https://home.ttic.edu/~mwalter/). My research focuses on self-supervised representation learning for robotics and reinforcement learning from human data. Before starting my PhD, I completed an M.Sc. in Computer Science at the University of Saskatchewan, working with [Dr. Ian Stavness](https://www.cs.usask.ca/faculty/stavness/) on unsupervised computer vision. I hold a B.Sc. in Software Engineering from Addis Ababa University.
-
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/img/prof_pic.jpg" target="_blank">
             <img class="img-fluid z-depth-1" src="/assets/img/prof_pic.jpg" alt="" width="300"/>
         </a>
     </div>
-</div>
+</div> -->
