@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-size: 1.1rem;
 }
 
 hr {
@@ -26,7 +27,7 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 1.1rem;
     padding: 1px 1rem 1px 0;
   }
 
@@ -61,7 +62,7 @@ blockquote {
   border-left: 5px solid var(--global-theme-color);
   margin: 1.5em 0;
   padding: 1em;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 
   p {
     margin-bottom: 0;
@@ -229,7 +230,7 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
 
   a {
     color: inherit;
