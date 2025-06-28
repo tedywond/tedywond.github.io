@@ -582,6 +582,15 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+
+  .font-weight-bold {
+    font-size: 3.8rem;
+  }
 }
 
 .post-list {
@@ -937,6 +946,10 @@ html.transition *:after {
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 1rem;
+
+    .font-weight-bold {
+      font-size: 3.8rem;
+    }
   }
 
   h2 {
