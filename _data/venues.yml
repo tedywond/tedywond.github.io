@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"CoRL":
+  url: https://www.corl.org/
+  color: "#c45c26"
+
+"WM@Booth":
+  url: https://wm-booth.org/
+  color: "#800000"
