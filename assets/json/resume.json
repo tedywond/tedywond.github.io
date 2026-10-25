@@ -50,14 +50,14 @@
   "work": [
     {
       "name": "Global Institute for Food Security",
-      "position": "Machine Learning Engineer (Research Technician)",
+      "position": "Machine Learning Engineer",
       "startDate": "2021-10",
       "summary": "Developing computer vision methods for phenotyping plant roots to extract information predictive of yield.",
       "highlights": []
     },
     {
       "name": "University of Saskatchewan and Honda R&D",
-      "position": "Machine Learning Engineer (Research Associate)",
+      "position": "Machine Learning Engineer",
       "startDate": "2021-01",
       "endDate": "2021-09",
       "summary": "Worked on improving semantic segmentation models for autonomous navigation under adverse weather using GAN-based approaches.",
@@ -66,8 +66,38 @@
   ],
   "publications": [
     {
+      "name": "What Are We Actually Benchmarking in Robot Manipulation?",
+      "releaseDate": "2026-11",
+      "authors": [
+        "Tianchong Jiang",
+        "Xiangshan Tan",
+        "Samuel Wheeler",
+        "Luzhe Sun",
+        "Tewodros W. Ayalew",
+        "Matthew Walter"
+      ],
+      "publisher": "CoRL 2026 (Oral); IROS 2026 RGMCW Workshop (Best Abstract Award)",
+      "url": "https://ripl.github.io/manipulation_benchmark_audit"
+    },
+    {
+      "name": "CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization",
+      "releaseDate": "2026-08",
+      "authors": [
+        "Tewodros W. Ayalew",
+        "Matthew Jeung",
+        "Samuel Wheeler",
+        "Xiao Zhang",
+        "Andre de la Cruz Arce",
+        "Kaylene Stocking",
+        "Michael Maire",
+        "Matthew R. Walter"
+      ],
+      "publisher": "WM@Booth 2026 (Lightning Talk)",
+      "url": "https://ripl.github.io/claw/"
+    },
+    {
       "name": "PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement",
-      "releaseDate": "2025-04",
+      "releaseDate": "2025-10",
       "authors": [
         "Tewodros W. Ayalew",
         "Xiao Zhang",
@@ -76,7 +106,8 @@
         "Michael Maire",
         "Matthew Walter"
       ],
-      "publisher": "Submitted to CVPR 2025"
+      "publisher": "ICCV 2025",
+      "url": "https://ripl.github.io/progressor/"
     },
     {
       "name": "Enabling End Users to Program Robots Using Reinforcement Learning",
@@ -99,9 +130,40 @@
         "et al."
       ],
       "publisher": "Plant Phenomics"
+    },
+    {
+      "name": "Unsupervised Domain Adaptation for Plant Organ Counting",
+      "releaseDate": "2020-08",
+      "authors": [
+        "Tewodros W. Ayalew",
+        "Jordan Ubbens",
+        "Ian Stavness"
+      ],
+      "publisher": "ECCV Workshop (CVPPP) 2020 (Best Paper Award)"
+    },
+    {
+      "name": "AutoCount: Unsupervised Segmentation and Counting of Organs in Field Images",
+      "releaseDate": "2020-08",
+      "authors": [
+        "Jordan Ubbens",
+        "Tewodros W. Ayalew",
+        "et al."
+      ],
+      "publisher": "ECCV Workshop (CVPPP) 2020"
     }
   ],
   "awards": [
+    {
+      "title": "Best Abstract Award",
+      "date": "2026",
+      "awarder": "IROS 2026 Workshop on Reproducible Benchmarking of Robotic Grasping and Manipulation",
+      "summary": "Awarded for 'What Are We Actually Benchmarking in Robot Manipulation?'"
+    },
+    {
+      "title": "CIFAR Inclusive AI Scholarship",
+      "date": "2025",
+      "awarder": "CIFAR Deep Learning and Reinforcement Learning Summer School"
+    },
     {
       "title": "Crerar Fellowship",
       "date": "2022",

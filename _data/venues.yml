@@ -12,6 +12,14 @@
   url: https://www.corl.org/
   color: "#c45c26"
 
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#2a6f97"
+
+"HRI":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/hri
+  color: "#5c4d7a"
+
 "WM@Booth":
   url: https://wm-booth.org/
   color: "#800000"
