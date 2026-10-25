@@ -29,6 +29,8 @@ latest_posts:
 
 I am a PhD student in Computer Science at the University of Chicago, advised by [Dr. Matthew Walter](https://home.ttic.edu/~mwalter/) at the [Robot Intelligence through Perception Laboratory (RIPL)](https://ttic.edu/ripl/) at the Toyota Technological Institute at Chicago (TTIC).
 
-My research focuses on world models, with an emphasis on learning predictive representations of the physical world from visual experience. I am interested in learning latent actions, dynamics, and structured representations from in the wild human videos, with the goal of building generalizable world models that can understand, predict, and reason about how the world changes. Ultimately, I aim to move beyond curated datasets and controlled environments toward models that learn from diverse real world visual experience and transfer across tasks and embodiments.
+My research focuses on world models that learn how the physical world changes from diverse, unlabeled video, with the goal of models that can predict, plan, and transfer across tasks and embodiments. In recent work ([CLAW](https://ripl.github.io/claw/)), I jointly learn a diffusion-based world model and continuous latent actions end-to-end from action-free video; the resulting model supports imitation from observation and goal-directed planning, and I evaluated it on a real UR5 with pretraining on human video. I am interested in scaling this direction beyond curated datasets toward in-the-wild visual experience.
 
 Prior to my PhD, I earned an M.Sc. in Computer Science from the University of Saskatchewan, where I worked with [Dr. Ian Stavness](https://www.cs.usask.ca/faculty/stavness/) on unsupervised computer vision.
+
+I am seeking Summer 2027 research internships in robot learning and world models.
