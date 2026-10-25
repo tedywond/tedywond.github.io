@@ -66,22 +66,9 @@
   ],
   "publications": [
     {
-      "name": "What Are We Actually Benchmarking in Robot Manipulation?",
-      "releaseDate": "2026-11",
-      "authors": [
-        "Tianchong Jiang",
-        "Xiangshan Tan",
-        "Samuel Wheeler",
-        "Luzhe Sun",
-        "Tewodros W. Ayalew",
-        "Matthew Walter"
-      ],
-      "publisher": "CoRL 2026 (Oral); IROS 2026 RGMCW Workshop (Best Abstract Award)",
-      "url": "https://ripl.github.io/manipulation_benchmark_audit"
-    },
-    {
       "name": "CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization",
       "releaseDate": "2026-08",
+      "summary": "End-to-end continuous latent actions + diffusion world model from action-free video; planning/imitation on sim and real UR5.",
       "authors": [
         "Tewodros W. Ayalew",
         "Matthew Jeung",
@@ -92,12 +79,13 @@
         "Michael Maire",
         "Matthew R. Walter"
       ],
-      "publisher": "WM@Booth 2026 (Lightning Talk)",
+      "publisher": "WM@Booth 2026 non-archival workshop (Lightning Talk); also MWRW 2026",
       "url": "https://ripl.github.io/claw/"
     },
     {
       "name": "PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement",
       "releaseDate": "2025-10",
+      "summary": "Self-supervised visual progress reward with online push-back; Meta-World RL and real-UR5 few-shot offline RL under noisy demos.",
       "authors": [
         "Tewodros W. Ayalew",
         "Xiao Zhang",
@@ -108,6 +96,21 @@
       ],
       "publisher": "ICCV 2025",
       "url": "https://ripl.github.io/progressor/"
+    },
+    {
+      "name": "What Are We Actually Benchmarking in Robot Manipulation?",
+      "releaseDate": "2026-06",
+      "summary": "Four diagnostics showing popular manipulation benchmarks often fail as proxies for general capability.",
+      "authors": [
+        "Tianchong Jiang",
+        "Xiangshan Tan",
+        "Samuel Wheeler",
+        "Luzhe Sun",
+        "Tewodros W. Ayalew",
+        "Matthew Walter"
+      ],
+      "publisher": "CoRL 2026 (Oral); IROS 2026 RGMCW Workshop (Best Abstract Award)",
+      "url": "https://ripl.github.io/manipulation_benchmark_audit"
     },
     {
       "name": "Enabling End Users to Program Robots Using Reinforcement Learning",
@@ -122,34 +125,14 @@
       "publisher": "HRI 2025"
     },
     {
-      "name": "Automatic Microplot Localization Using UAV Images and a Hierarchical Image-based Optimization Method",
-      "releaseDate": "2021-01",
+      "name": "Earlier computer vision work in plant phenotyping",
+      "releaseDate": "2020-08",
+      "summary": "ECCV-W CVPPP 2020 Best Paper, Plant Phenomics 2021, AutoCount.",
       "authors": [
-        "Sara Mardanisamani",
         "Tewodros W. Ayalew",
         "et al."
       ],
-      "publisher": "Plant Phenomics"
-    },
-    {
-      "name": "Unsupervised Domain Adaptation for Plant Organ Counting",
-      "releaseDate": "2020-08",
-      "authors": [
-        "Tewodros W. Ayalew",
-        "Jordan Ubbens",
-        "Ian Stavness"
-      ],
-      "publisher": "ECCV Workshop (CVPPP) 2020 (Best Paper Award)"
-    },
-    {
-      "name": "AutoCount: Unsupervised Segmentation and Counting of Organs in Field Images",
-      "releaseDate": "2020-08",
-      "authors": [
-        "Jordan Ubbens",
-        "Tewodros W. Ayalew",
-        "et al."
-      ],
-      "publisher": "ECCV Workshop (CVPPP) 2020"
+      "publisher": "ECCV Workshop (CVPPP) 2020; Plant Phenomics 2021"
     }
   ],
   "awards": [

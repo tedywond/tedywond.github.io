@@ -1,3 +1,34 @@
+@inproceedings{ayalew2026claw,
+  abbr = {WM@Booth},
+  author = {Tewodros W. Ayalew and Matthew Jeung and Samuel Wheeler and Xiao Zhang and Andre de la Cruz Arce and Kaylene Stocking and Michael Maire and Matthew R. Walter},
+  title = {CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization},
+  booktitle = {Non-archival workshop on World Models at Chicago Booth (WM@Booth)},
+  year = {2026},
+  selected = {true},
+  html = {https://ripl.github.io/claw/},
+  arxiv = {2606.04130},
+  pdf = {https://arxiv.org/pdf/2606.04130},
+  award = {Lightning talk at [WM@Booth 2026](https://wm-booth.org/) (non-archival). Also presented at the [Midwest Robotics Workshop (MWRW) 2026](https://ttic.edu/mwrw/).},
+  award_name = {Lightning},
+  preview = {claw_action_transfer.mp4},
+  note = {Takeaway: end-to-end continuous latent actions + diffusion world model from action-free video; 43\% RoboDesk upright-block planning vs.\ 5\% AdaWorld; 1.7/3.0 long-horizon real UR5 vs.\ 1.5 AdaWorld.},
+  abstract = {End-to-end continuous latent actions + diffusion world model from action-free video (incl. Something-Something V2). Supports imitation and MPC planning; 43% RoboDesk upright-block planning vs. 5% AdaWorld; 1.7/3.0 long-horizon real UR5 vs. 1.5 AdaWorld.}
+}
+
+@inproceedings{ayalew2025progressor,
+  abbr = {ICCV},
+  author = {Tewodros W. Ayalew and Xiao Zhang and Kevin Yuanbo Wu and Tianchong Jiang and Michael Maire and Matthew Walter},
+  title = {PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year = {2025},
+  selected = {true},
+  html = {https://ripl.github.io/progressor/},
+  code = {https://github.com/ripl/progressor},
+  preview = {PROGRESSOR.gif},
+  note = {Takeaway: self-supervised visual progress reward with online push-back; Meta-World RL without env reward; real-UR5 few-shot offline RL under noisy demos.},
+  abstract = {Self-supervised visual progress reward with adversarial online push-back. Pretrained on EPIC-KITCHENS; Meta-World RL without environment reward and real-UR5 few-shot offline RL under noisy demos, outperforming VIP/R3M-style rewards.}
+}
+
 @inproceedings{jiang2026benchmarking,
   abbr = {CoRL},
   author = {Tianchong Jiang and Xiangshan Tan and Samuel Wheeler and Luzhe Sun and Tewodros W. Ayalew and Matthew Walter},
@@ -9,37 +40,11 @@
   arxiv = {2606.04233},
   pdf = {https://arxiv.org/pdf/2606.04233},
   code = {https://github.com/ripl/ManipulationBenchmarkAudit},
-  video = {https://x.com/JiangTianchong/status/2107592963131904147/video/1},
   award = {Oral presentation at CoRL 2026. Best Abstract Award at the IROS 2026 Workshop on Reproducible Benchmarking of Robotic Grasping and Manipulation.},
   award_name = {Oral},
-  preview = {manipulation_benchmark.png}
-}
-
-@inproceedings{ayalew2026claw,
-  abbr = {WM@Booth},
-  author = {Tewodros W. Ayalew and Matthew Jeung and Samuel Wheeler and Xiao Zhang and Andre de la Cruz Arce and Kaylene Stocking and Michael Maire and Matthew R. Walter},
-  title = {CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization},
-  booktitle = {Workshop on World Models at Chicago Booth (WM@Booth)},
-  year = {2026},
-  selected = {true},
-  html = {https://ripl.github.io/claw/},
-  arxiv = {2606.04130},
-  pdf = {https://arxiv.org/pdf/2606.04130},
-  video = {https://ripl.github.io/claw/static/videos/generated_seq_0_action_transfer.mp4},
-  award = {Lightning talk at [WM@Booth 2026](https://wm-booth.org/). Also presented at the [Midwest Robotics Workshop (MWRW) 2026](https://ttic.edu/mwrw/).},
-  award_name = {Lightning},
-  preview = {claw.png}
-}
-
-@inproceedings{ayalew2025progressor,
-  abbr = {ICCV},
-  author = {Tewodros W. Ayalew and Xiao Zhang and Kevin Yuanbo Wu and Tianchong Jiang and Michael Maire and Matthew Walter},
-  title = {PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement},
-  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year = {2025},
-  selected = {true},
-  html = {https://ripl.github.io/progressor/},
-  preview = {PROGRESSOR.gif}
+  preview = {manipulation_benchmark.mp4},
+  note = {Takeaway: four diagnostics showing popular manipulation benchmarks often fail as proxies for general capability; reference implementations released.},
+  abstract = {Four diagnostics (shortcut solvability, statistical significance, creeping overfitting, data-source dependence) showing popular manipulation benchmarks often fail as proxies for general capability.}
 }
 
 @inproceedings{ayalew2025endusers,
@@ -67,7 +72,9 @@
   year = {2020},
   selected = {true},
   preview = {uda4poc.gif},
-  html = {https://github.com/p2irc/UDA4POC}
+  html = {https://github.com/p2irc/UDA4POC},
+  award = {Best Paper Award at the ECCV 2020 CVPPP workshop.},
+  award_name = {Best Paper}
 }
 
 @inproceedings{ubbens2020autocount,
