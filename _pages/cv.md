@@ -19,9 +19,11 @@ toc:
 
 ## Summary
 
-PhD student working on robot learning from video. I developed **CLAW**, a latent action world model learned from action-free video that supports planning and imitation on a real robot, and **PROGRESSOR**, a self-supervised reward estimator from visual observations (ICCV 2025). Keywords: world models, latent actions, reward learning.
+I'm a PhD student in Computer Science at the University of Chicago, advised by Matthew Walter at the Robot Intelligence through Perception Laboratory (RIPL) at the Toyota Technological Institute at Chicago (TTIC).
 
-**Seeking Summer 2027 research internships in robot learning and world models.**
+I'm interested in how robots can learn about the physical world from video. My research focuses on world models, learning latent actions and dynamics from unlabeled videos, and learning reward signals from visual observations, with the goal of agents that learn from diverse real-world experience and transfer across tasks and embodiments.
+
+Before my PhD, I received an M.Sc. in Computer Science from the University of Saskatchewan, where I worked with Ian Stavness on unsupervised domain adaptation.
 
 ---
 
@@ -62,7 +64,7 @@ Unsupervised domain adaptation for semantic segmentation under adverse weather.
 
 - **CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization**  
   *Tewodros W. Ayalew*, Matthew Jeung, Samuel Wheeler, Xiao Zhang, Andre de la Cruz Arce, Kaylene Stocking, Michael Maire, Matthew R. Walter  
-  _Non-archival workshop_, WM@Booth 2026 **[Lightning Talk]**; also MWRW 2026  
+  _WM@Booth 2026_ **[Lightning Talk]**; also MWRW 2026  
   Takeaway: continuous latent actions + diffusion world model from action-free video; planning/imitation on real UR5.  
   [Project](https://ripl.github.io/claw/) · [arXiv](https://arxiv.org/abs/2606.04130) · [Video](https://tedywond.github.io/assets/video/claw_action_transfer.mp4)
 
