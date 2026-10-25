@@ -45,7 +45,7 @@ Mentors: Dr. Ian Stavness and Professor Leon Kochian
 **University of Saskatchewan and Honda R&D**  
 _Machine Learning Engineer_ (Jan 2021 – Sept 2021)  
 Mentors: Dr. Ian Stavness and Dr. Masaki Yamazaki  
-- Designed and evaluated GAN-based approaches for robust semantic segmentation under adverse weather conditions, supporting autonomous robot navigation.
+- Designed and evaluated unsupervised domain adaptation approaches for robust semantic segmentation under adverse weather conditions, supporting autonomous robot navigation.
 
 ---
 

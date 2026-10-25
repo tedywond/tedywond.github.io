@@ -60,7 +60,7 @@
       "position": "Machine Learning Engineer",
       "startDate": "2021-01",
       "endDate": "2021-09",
-      "summary": "Worked on improving semantic segmentation models for autonomous navigation under adverse weather using GAN-based approaches.",
+      "summary": "Worked on improving semantic segmentation models for autonomous navigation under adverse weather using unsupervised domain adaptation.",
       "highlights": []
     }
   ],
