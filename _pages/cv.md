@@ -19,11 +19,11 @@ toc:
 
 ## Summary
 
-I'm a PhD student in Computer Science at the University of Chicago, advised by Matthew Walter at the Robot Intelligence through Perception Laboratory (RIPL) at the Toyota Technological Institute at Chicago (TTIC).
+I'm a PhD student in Computer Science at the University of Chicago, advised by Dr. Matthew Walter at the Robot Intelligence through Perception Laboratory (RIPL) at the Toyota Technological Institute at Chicago (TTIC).
 
 I'm interested in how robots can learn about the physical world from video. My research focuses on world models, learning latent actions and dynamics from unlabeled videos, and learning reward signals from visual observations, with the goal of agents that learn from diverse real-world experience and transfer across tasks and embodiments.
 
-Before my PhD, I received an M.Sc. in Computer Science from the University of Saskatchewan, where I worked with Ian Stavness on unsupervised domain adaptation.
+Before my PhD, I received an M.Sc. in Computer Science from the University of Saskatchewan, where I worked with Dr. Ian Stavness on unsupervised domain adaptation.
 
 ---
 
