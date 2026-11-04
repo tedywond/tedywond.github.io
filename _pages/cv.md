@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Tewodros_Wondifraw_Ayalew_CV_AddisCoder.pdf
+cv_pdf: Tewodros_Ayalew_cv.pdf
 toc:
   sidebar: left
 ---
