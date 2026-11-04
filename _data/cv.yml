@@ -47,6 +47,10 @@
 - title: Publications
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - "CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization (Accepted to CoRL 2026 Workshop PhysWM)"
+        - "What Are We Actually Benchmarking in Robot Manipulation? (CoRL 2026, Oral; Best Paper Award Finalist)"
     - year: 2025
       items:
         - PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement (In Submission at CVPR 2025)
@@ -86,6 +90,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Best Paper Award Finalist, Conference on Robot Learning (CoRL)
     - year: 2022
       items:
         - Crerar Fellowship, University of Chicago

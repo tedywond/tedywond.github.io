@@ -10,7 +10,7 @@ toc:
 ---
 
 # Tewodros Wondifraw Ayalew  
-**Updated:** October 25, 2026  
+**Updated:** November 3, 2026  
 **Email:** tewodrosayalew@uchicago.edu  
 **Website:** [tedywond.github.io](https://tedywond.github.io/)  
 **GitHub:** [tedywond](https://github.com/tedywond) · **Scholar:** [profile](https://scholar.google.com/citations?user=bWWi098AAAAJ)  
@@ -64,7 +64,7 @@ Unsupervised domain adaptation for semantic segmentation under adverse weather.
 
 - **CLAW: Learning Continuous Latent Action World Models via Adversarial Latent Regularization**  
   *Tewodros W. Ayalew*, Matthew Jeung, Samuel Wheeler, Xiao Zhang, Andre de la Cruz Arce, Kaylene Stocking, Michael Maire, Matthew R. Walter  
-  _WM@Booth 2026_ **[Lightning Talk]**; also MWRW 2026  
+  _CoRL 2026 Workshop PhysWM_ **[Accepted]**; also WM@Booth 2026 **[Lightning Talk]** and MWRW 2026  
   Takeaway: continuous latent actions + diffusion world model from action-free video; planning/imitation on real UR5.  
   [Project](https://ripl.github.io/claw/) · [arXiv](https://arxiv.org/abs/2606.04130) · [Video](https://tedywond.github.io/assets/video/claw_action_transfer.mp4)
 
@@ -76,7 +76,7 @@ Unsupervised domain adaptation for semantic segmentation under adverse weather.
 
 - **What Are We Actually Benchmarking in Robot Manipulation?**  
   Tianchong Jiang, Xiangshan Tan, Samuel Wheeler, Luzhe Sun, *Tewodros W. Ayalew*, Matthew Walter  
-  _CoRL 2026_ **[Oral]**; IROS 2026 RGMCW Workshop **[Best Abstract Award]**  
+  _CoRL 2026_ **[Oral; Best Paper Award Finalist]**; IROS 2026 RGMCW Workshop **[Best Abstract Award]**  
   Takeaway: diagnostics showing popular manipulation benchmarks often fail as capability proxies.  
   [Project](https://ripl.github.io/manipulation_benchmark_audit) · [Code](https://github.com/ripl/ManipulationBenchmarkAudit) · [Video](https://tedywond.github.io/assets/video/manipulation_benchmark.mp4)
 
@@ -97,6 +97,8 @@ Unsupervised domain adaptation for semantic segmentation under adverse weather.
 ---
 
 ## Honors
+
+- Best Paper Award Finalist, Conference on Robot Learning (CoRL 2026)  
 
 - Best Abstract Award, IROS 2026 Workshop on Reproducible Benchmarking of Robotic Grasping and Manipulation (2026)  
 - CIFAR Inclusive AI Scholarship (2025)  
